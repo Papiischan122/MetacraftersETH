@@ -73,4 +73,8 @@ In the editor area, write or paste your Solidity code. Make sure your code is fr
     **Christian Llanes**
 
 
+##License
+This project is licensed under the CHRISTIAN LLANES License - see the LICENSE.md file for details
+
+
 
