@@ -19,7 +19,7 @@ Public Variables
 
   - _address: The address to which the tokens will be assigned.
   - _value: The number of tokens to be burned.
-  - 
+    
 The function checks if the balance of the specified address is greater than or equal to the given value. If it is, it reduces the total supply by the given value and deducts the same value from the balance of the specified address.
 
 License
